@@ -1,0 +1,1 @@
+• Both Depth-First Search (DFS) and Breadth-First Search (BFS) traverse all vertices and edges of a graph in \(O(V + E)\) time. BFS (using a queue) is ideal for finding the shortest path in unweighted graphs, whereas DFS (using a stack/recursion) is better suited for exploring deep paths, cycle detection, and topological sorting.

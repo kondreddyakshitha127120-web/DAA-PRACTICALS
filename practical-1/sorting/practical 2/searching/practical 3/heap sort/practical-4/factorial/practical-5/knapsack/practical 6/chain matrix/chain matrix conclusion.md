@@ -1,0 +1,1 @@
+Using dynamic programming determines the most efficient way to parenthesize a sequence of matrices, minimizing the total number of scalar multiplications in \(O(n^3)\) time and \(O(n^2)\) space rather than checking all possible combinations exponentially.

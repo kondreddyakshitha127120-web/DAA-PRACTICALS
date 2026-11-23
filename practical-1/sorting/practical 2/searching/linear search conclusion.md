@@ -1,0 +1,1 @@
+Binary Search is substantially faster than Linear Search for large datasets, reducing the worst-case time complexity from \(O(n)\) to \(O(\log n)\) by halving the search space at each step. However, Binary Search strictly requires the input array to be sorted beforehand, whereas Linear Search works on unsorted data.

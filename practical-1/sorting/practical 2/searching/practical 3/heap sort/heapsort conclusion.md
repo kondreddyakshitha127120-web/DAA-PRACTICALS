@@ -1,0 +1,1 @@
+Heap Sort successfully sorts elements in-place with a consistent time complexity of \(O(n \log n)\) across best, average, and worst cases. Unlike Merge Sort, it requires only \(O(1)\) auxiliary space, making it both time- and memory-efficient.

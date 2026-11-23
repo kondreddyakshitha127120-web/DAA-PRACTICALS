@@ -1,0 +1,1 @@
+Dynamic programming guarantees finding the minimum number of coins required to make a given amount in \(O(n \times A)\) time (where \(n\) is the number of coin denominations and \(A\) is the target amount), providing an optimal solution even for arbitrary coin systems where a greedy approach might fail.

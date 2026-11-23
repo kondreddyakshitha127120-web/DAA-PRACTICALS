@@ -1,0 +1,1 @@
+• Prim’s algorithm effectively finds the Minimum Spanning Tree (MST) of a connected, weighted undirected graph using a greedy approach. By growing the tree one vertex at a time, it runs in \(O(V^2)\) time using an adjacency matrix (or \(O(E \log V)\) with a priority queue), making it well-suited for dense graphs.

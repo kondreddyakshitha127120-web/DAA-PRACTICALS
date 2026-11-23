@@ -1,0 +1,1 @@
+Dynamic programming solves the 0/1 Knapsack problem optimally in \(O(n \times W)\) time and space (where \(n\) is the number of items and \(W\) is capacity) by breaking the problem into overlapping subproblems and storing intermediate results in a table, avoiding the exponential \(O(2^n)\) complexity of brute-force recursion.

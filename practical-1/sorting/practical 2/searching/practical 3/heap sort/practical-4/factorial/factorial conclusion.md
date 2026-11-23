@@ -1,0 +1,1 @@
+Both iterative and recursive methods calculate the factorial in \(O(n)\) time complexity, but the iterative approach is more memory-efficient (\(O(1)\) space). The recursive approach incurs extra overhead due to the function call stack, resulting in \(O(n)\) space complexity and a risk of stack overflow for very large inputs

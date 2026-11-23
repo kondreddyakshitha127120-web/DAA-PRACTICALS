@@ -1,0 +1,1 @@
+When analyzing graph algorithms like Kruskal's and Floyd-Warshall, the choice depends entirely on your specific problem architecture (whether you need to connect a network cheaply or map out all paths).

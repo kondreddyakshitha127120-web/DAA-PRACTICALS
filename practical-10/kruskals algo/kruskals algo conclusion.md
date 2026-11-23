@@ -1,0 +1,1 @@
+Kruskal's algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted graph. It prioritizes the cheapest available connections while strictly avoiding cycles.
